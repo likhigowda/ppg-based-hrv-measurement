@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Heart Rate Monitor</string>
+
+    <string name="rules">Finger should completely cover camera not flash light.\n\nMinimize finger and phone shaking.\n\nReal time graph should look periodical.\n\nMinimum 15 seconds reading is required.\n\nThis application can provide results for maximum of 180 seconds reading.\n
+
+    </string>
+</resources>
