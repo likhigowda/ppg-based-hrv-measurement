@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Heart Rate Monitor</string>
+
+    <string name="rules">Please cover the camera lightly with your index finger and stay still.\n\nReal time graph should look periodical.\n\nMinimum 15 seconds reading is required.
+
+    </string>
+</resources>
